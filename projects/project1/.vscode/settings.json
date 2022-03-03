@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "fstream": "cpp",
+        "*.ipp": "cpp",
+        "cmath": "cpp",
+        "chrono": "cpp"
+    }
+}
